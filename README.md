@@ -12,6 +12,8 @@
 - 👨🏻‍🎓 Completed Bachelors Degree in Computer Engineering from University of Mumbai.
 - 🎓 Completed Post Graduation Diploma in Advanced Computing.
 - 📷 Loves photography, 🎧 Listening to music, 📖 reading, and 🎬 watching movies.
+
+<br />
 <br />
 
 **💻 Currently Working on**
@@ -22,6 +24,8 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="https://pt.wikipedia.org/wiki/Linux" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+
+<br />
 <br />
 
 **🤓 What's learning new**
