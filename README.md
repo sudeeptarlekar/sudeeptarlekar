@@ -16,6 +16,13 @@
 <br />
 <br />
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeeptarlekar&show_icons=true" alt="sudeeptarlekar" />  
+</p>
+
+<br />
+<br />
+
 **💻 Currently Working on**
 
 <code><a href="https://www.ruby-lang.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></a></code>
@@ -34,3 +41,4 @@
 <code><a href="https://www.android.com/intl/pt-BR_br/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
 <code><a href="https://elixir-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"></a></code>
 <code><a href="https://www.rust-lang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></a></code>
+
