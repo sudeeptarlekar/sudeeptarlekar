@@ -16,13 +16,6 @@
 <br />
 <br />
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeeptarlekar&show_icons=true" alt="sudeeptarlekar" />  
-</p>
-
-<br />
-<br />
-
 **💻 Currently Working on**
 
 <code><a href="https://www.ruby-lang.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></a></code>
