@@ -30,5 +30,5 @@
 
 **🤓 What's learning new**
 
-<code><a href="https://www.next.org/" target="_blank"><img height="50" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></a></code>
+<code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></a></code>
 
