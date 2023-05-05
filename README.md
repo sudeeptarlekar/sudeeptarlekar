@@ -8,7 +8,7 @@
 <br />
 
 **Personal Info**
-- 🧑🏻‍💻 Currently working with BigBinary as Senior Software Developer.
+- 🧑🏻‍💻 Currently working with ESR Labs as Firmware and Embedded Engineer.
 - 👨🏻‍🎓 Completed Bachelors Degree in Computer Engineering from University of Mumbai.
 - 🎓 Completed Post Graduation Diploma in Advanced Computing.
 - 📷 Loves photography, 🎧 Listening to music, 📖 reading, and 🎬 watching movies.
